@@ -23,7 +23,7 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Desarrollo Web** (UNER)
 
 ## 📌 Proyectos destacados
 
-- 🏍️ **[tp-maquetacion-Iron-Moto-](https://github.com/schembergerf/tp-maquetacion-Iron-Moto-)** — Maquetación de sitio web con HTML y CSS. Primer trabajo práctico del curso de Programador Web Inicial (Front End Developer).
+- 🏍️ **[tp-maquetacion-Iron-Moto-](https://github.com/schembergerf/tp-maquetacion-Iron-Moto-)** — Maquetación de sitio web con HTML y CSS. Primer trabajo práctico del curso de Programador Web Inicial (Front End Developer). 🔗 [Ver demo](https://schembergerf.github.io/tp-maquetacion-Iron-Moto-/)
 
 - 🎮 **[gamehub-project](https://github.com/schembergerf/gamehub-project)** — Proyecto de consumo de API construido en JavaScript, desarrollado durante el curso de Front End Developer.
 
