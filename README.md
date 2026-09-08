@@ -21,6 +21,15 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Desarrollo Web** (UNER)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=schembergerf&show_icons=true&theme=default&hide_title=false)
 
+## 📌 Proyectos destacados
+
+- 🏍️ **[tp-maquetacion-Iron-Moto-](https://github.com/schembergerf/tp-maquetacion-Iron-Moto-)** — Maquetación de sitio web con HTML y CSS. Primer trabajo práctico del curso de Programador Web Inicial (Front End Developer).
+
+- 🎮 **[gamehub-project](https://github.com/schembergerf/gamehub-project)** — Proyecto de consumo de API construido en JavaScript, desarrollado durante el curso de Front End Developer.
+
+- 🗄️ **[tp-mongodb-final](https://github.com/schembergerf/tp-mongodb-final)** — API RESTful con operaciones CRUD y arquitectura por capa de servicios, usando MongoDB.
+
+
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-schemberger-279029249/)
